@@ -1,2 +1,2 @@
 # genAI
-All things generative AI related 
+First repository dedicated to GenAI 
